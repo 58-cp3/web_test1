@@ -5,5 +5,17 @@ output:
     df_print: paged
 ---
 
-Welcome to my website!  
-I am a student at SUSTech, my research is about xxx.
+**Come here**  
+
+*Any questions will be ok*
+
+
+
+Here are dog's family!  
+If you are lost in sad,come here,share your experiences with us!
+Don't be shy,bro!
+
+
+
+Don't be scary,it's what you look like now !
+<img src="figs/dog.jpg" alt="drawing" width="400"/> 
